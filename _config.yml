@@ -7,11 +7,11 @@
 
 # Site settings
 title: System biology laboratory of Comenius University in Bratislava
-email: hruzik2@uniba.com
+email: hruzik2@uniba.sk
 description: > # this means to ignore newlines until "baseurl:"
   Website of the AllanLab.
-baseurl: ""  
-url: "https://sysbiolab-uk.com"  
+url: "https://samuel6789.github.io"
+baseurl: "/sysbio.github.io"
 
 plugins:
   - jekyll-feed
