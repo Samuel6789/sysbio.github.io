@@ -10,9 +10,12 @@ title: The Allan Lab
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of the AllanLab.
-baseurl: ""
-url: ""
+url: "https://samuel6789.github.io"
+baseurl: "/sysbio.github.io"
 
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 include:
   - .htaccess
   - _pages
