@@ -1,14 +1,14 @@
 ---
-title: "Allan Lab - Home"
+title: "Systems biology lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Systems biology lab at Comenius University &rarr;"
 sitemap: false
 permalink: /
 ---
 
-**News: Our group moved to the University of Munich (LMU)!** Join us! 
+**News: We got a new member** Join us! 
 
-We are a dynamic research group at [LMU physics](https://www.physik.lmu.de/en/index.html) and at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl/). 
+We are a dynamic research group at [UK natural sciences](https://fns.uniba.sk/). 
 
 We have two overarching goals: first, 
 **to understand quantum materials**, including strange metals, high-temperature superconductors, and quantum critical electron matter. Second, **to make novel and useful materials** that never existed before, like possible room-temperature superconductors. 
